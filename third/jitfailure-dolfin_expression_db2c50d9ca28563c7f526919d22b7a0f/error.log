@@ -1,0 +1,6 @@
+/tmp/tmpm1_q6062/dolfin_expression_db2c50d9ca28563c7f526919d22b7a0f.cpp: In member function 'virtual void dolfin::dolfin_expression_db2c50d9ca28563c7f526919d22b7a0f::eval(Eigen::Ref<Eigen::Matrix<double, -1, 1> >, Eigen::Ref<const Eigen::Matrix<double, -1, 1> >) const':
+/tmp/tmpm1_q6062/dolfin_expression_db2c50d9ca28563c7f526919d22b7a0f.cpp:61:23: error: cannot convert 'const char [1]' to 'Eigen::DenseCoeffsBase<Eigen::Ref<Eigen::Matrix<double, -1, 1> >, 1>::Scalar' {aka 'double'} in assignment
+   61 |           values[0] = "";
+      |                       ^~
+      |                       |
+      |                       const char [1]

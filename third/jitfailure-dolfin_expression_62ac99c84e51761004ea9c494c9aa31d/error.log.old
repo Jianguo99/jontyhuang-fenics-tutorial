@@ -1,0 +1,10 @@
+/tmp/tmp9dq1qqya/dolfin_expression_62ac99c84e51761004ea9c494c9aa31d.cpp:61:23: warning: missing terminating " character
+   61 |           values[0] = ";
+      |                       ^
+/tmp/tmp9dq1qqya/dolfin_expression_62ac99c84e51761004ea9c494c9aa31d.cpp:61:23: error: missing terminating " character
+   61 |           values[0] = ";
+      |                       ^~
+/tmp/tmp9dq1qqya/dolfin_expression_62ac99c84e51761004ea9c494c9aa31d.cpp: In member function 'virtual void dolfin::dolfin_expression_62ac99c84e51761004ea9c494c9aa31d::eval(Eigen::Ref<Eigen::Matrix<double, -1, 1> >, Eigen::Ref<const Eigen::Matrix<double, -1, 1> >) const':
+/tmp/tmp9dq1qqya/dolfin_expression_62ac99c84e51761004ea9c494c9aa31d.cpp:63:8: error: expected primary-expression before '}' token
+   63 |        }
+      |        ^
